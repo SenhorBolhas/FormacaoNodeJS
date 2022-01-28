@@ -8,8 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SenhorBolhas/nodejs-api-rest.git"
+    "url": "git+https://github.com/SenhorBolhas/FormacaoNodeJS.git"
   },
   "author": "Giovanni Pelloso",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
